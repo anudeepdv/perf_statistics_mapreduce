@@ -1,0 +1,28 @@
+// this is to give permission for accesing perf
+ sudo sh -c 'echo 1 >/proc/sys/kernel/perf_event_paranoid'
+
+ perf stat -e instructions,cache-references,cache-misses,branch-misses  gcc quick.c  >> file3.txt 2>&1 // writing to a file to do analysis
+
+// you can use these events in perf stat cmd to get the desired statistics
+List of pre-defined events (to be used in -e):
+
+  branch-instructions OR cpu/branch-instructions/    [Kernel PMU event]
+  branch-misses OR cpu/branch-misses/                [Kernel PMU event]
+  bus-cycles OR cpu/bus-cycles/                      [Kernel PMU event]
+  cache-misses OR cpu/cache-misses/                  [Kernel PMU event]
+  cache-references OR cpu/cache-references/          [Kernel PMU event]
+  cpu-cycles OR cpu/cpu-cycles/                      [Kernel PMU event]
+  cstate_core/c3-residency/                          [Kernel PMU event]
+  cstate_core/c6-residency/                          [Kernel PMU event]
+  cstate_core/c7-residency/                          [Kernel PMU event]
+  cstate_pkg/c2-residency/                           [Kernel PMU event]
+  cstate_pkg/c3-residency/                           [Kernel PMU event]
+  cstate_pkg/c6-residency/                           [Kernel PMU event]
+  cstate_pkg/c7-residency/                           [Kernel PMU event]
+  cycles-ct OR cpu/cycles-ct/                        [Kernel PMU event]
+  cycles-t OR cpu/cycles-t/                          [Kernel PMU event]
+  el-abort OR cpu/el-abort/                          [Kernel PMU event]
+  el-capacity OR cpu/el-capacity/                    [Kernel PMU event]
+  el-commit OR cpu/el-commit/                        [Kernel PMU event]
+  el-conflict OR cpu/el-conflict/                    [Kernel PMU event]
+  el-start OR cpu/el-start/                          [Kernel PMU event]

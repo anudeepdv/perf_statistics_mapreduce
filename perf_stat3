@@ -1,0 +1,98 @@
+Performance counter stats for 'gcc merge.c':
+
+      14,39,45,790      instructions                                                
+         49,79,561      cache-references                                            
+         12,38,772      cache-misses              #   24.877 % of all cache refs    
+          8,90,671      branch-misses                                               
+
+       0.041870849 seconds time elapsed
+
+
+ Performance counter stats for 'gcc merge.c':
+
+      14,40,36,405      instructions                                                
+         50,51,523      cache-references                                            
+         12,51,747      cache-misses              #   24.780 % of all cache refs    
+          8,90,139      branch-misses                                               
+
+       0.053426508 seconds time elapsed
+
+
+ Performance counter stats for 'gcc merge.c':
+
+      14,39,46,000      instructions                                                
+         49,60,111      cache-references                                            
+         12,44,357      cache-misses              #   25.087 % of all cache refs    
+          8,90,118      branch-misses                                               
+
+       0.042052828 seconds time elapsed
+
+
+ Performance counter stats for 'gcc merge.c':
+
+      14,39,15,662      instructions                                                
+         50,59,798      cache-references                                            
+         12,45,250      cache-misses              #   24.611 % of all cache refs    
+          8,93,950      branch-misses                                               
+
+       0.041953799 seconds time elapsed
+
+
+ Performance counter stats for 'gcc merge.c':
+
+      14,40,87,601      instructions                                                
+         50,14,036      cache-references                                            
+         13,01,563      cache-misses              #   25.958 % of all cache refs    
+          8,92,465      branch-misses                                               
+
+       0.045402473 seconds time elapsed
+
+
+ Performance counter stats for 'gcc merge.c':
+
+      14,41,23,939      instructions                                                
+         50,98,626      cache-references                                            
+         12,74,321      cache-misses              #   24.993 % of all cache refs    
+          8,85,973      branch-misses                                               
+
+       0.063052299 seconds time elapsed
+
+
+ Performance counter stats for 'gcc merge.c':
+
+      14,40,87,028      instructions                                                
+         50,18,558      cache-references                                            
+         11,94,755      cache-misses              #   23.807 % of all cache refs    
+          8,85,095      branch-misses                                               
+
+       0.042937994 seconds time elapsed
+
+
+ Performance counter stats for 'gcc merge.c':
+
+      14,40,28,725      instructions                                                
+         49,92,425      cache-references                                            
+         12,13,377      cache-misses              #   24.304 % of all cache refs    
+          8,93,198      branch-misses                                               
+
+       0.041689596 seconds time elapsed
+
+
+ Performance counter stats for 'gcc merge.c':
+
+      14,42,19,017      instructions                                                
+         49,77,611      cache-references                                            
+         12,08,583      cache-misses              #   24.280 % of all cache refs    
+          8,92,938      branch-misses                                               
+
+       0.041643875 seconds time elapsed
+
+
+ Performance counter stats for 'gcc merge.c':
+
+      14,41,22,558      instructions                                                
+         49,45,902      cache-references                                            
+         11,87,884      cache-misses              #   24.018 % of all cache refs    
+          8,91,841      branch-misses                                               
+
+       0.041657004 seconds time elapsed

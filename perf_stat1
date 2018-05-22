@@ -1,0 +1,98 @@
+Performance counter stats for 'gcc quick.c':
+
+      13,07,44,715      instructions                                                
+         49,56,396      cache-references                                            
+         21,38,035      cache-misses              #   43.137 % of all cache refs    
+          8,11,824      branch-misses                                               
+
+       0.049233512 seconds time elapsed
+
+
+ Performance counter stats for 'gcc quick.c':
+
+      13,06,74,429      instructions                                                
+         45,37,279      cache-references                                            
+         11,77,914      cache-misses              #   25.961 % of all cache refs    
+          8,00,343      branch-misses                                               
+
+       0.038129219 seconds time elapsed
+
+
+ Performance counter stats for 'gcc quick.c':
+
+      13,06,22,109      instructions                                                
+         46,59,269      cache-references                                            
+         11,74,767      cache-misses              #   25.214 % of all cache refs    
+          8,03,977      branch-misses                                               
+
+       0.038631794 seconds time elapsed
+
+
+ Performance counter stats for 'gcc quick.c':
+
+      13,07,27,913      instructions                                                
+         45,67,371      cache-references                                            
+         11,42,217      cache-misses              #   25.008 % of all cache refs    
+          8,02,487      branch-misses                                               
+
+       0.040740356 seconds time elapsed
+
+
+ Performance counter stats for 'gcc quick.c':
+
+      13,06,94,566      instructions                                                
+         45,77,724      cache-references                                            
+         11,80,724      cache-misses              #   25.793 % of all cache refs    
+          7,99,473      branch-misses                                               
+
+       0.038743910 seconds time elapsed
+
+
+ Performance counter stats for 'gcc quick.c':
+
+      13,06,40,402      instructions                                                
+         45,78,467      cache-references                                            
+         12,06,176      cache-misses              #   26.345 % of all cache refs    
+          8,06,314      branch-misses                                               
+
+       0.038459817 seconds time elapsed
+
+
+ Performance counter stats for 'gcc quick.c':
+
+      13,06,86,258      instructions                                                
+         45,64,481      cache-references                                            
+         12,15,362      cache-misses              #   26.627 % of all cache refs    
+          8,01,261      branch-misses                                               
+
+       0.038262067 seconds time elapsed
+
+
+ Performance counter stats for 'gcc quick.c':
+
+      13,06,13,526      instructions                                                
+         45,41,381      cache-references                                            
+         11,47,893      cache-misses              #   25.276 % of all cache refs    
+          8,01,344      branch-misses                                               
+
+       0.038247966 seconds time elapsed
+
+
+ Performance counter stats for 'gcc quick.c':
+
+      13,06,21,780      instructions                                                
+         45,82,666      cache-references                                            
+         11,74,325      cache-misses              #   25.625 % of all cache refs    
+          8,02,405      branch-misses                                               
+
+       0.037838858 seconds time elapsed
+
+
+ Performance counter stats for 'gcc quick.c':
+
+      13,06,63,560      instructions                                                
+         45,43,506      cache-references                                            
+         11,65,863      cache-misses              #   25.660 % of all cache refs    
+          7,98,932      branch-misses                                               
+
+       0.038515626 seconds time elapsed

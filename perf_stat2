@@ -1,0 +1,98 @@
+Performance counter stats for 'gcc tsp.c':
+
+      13,97,36,054      instructions                                                
+         52,20,629      cache-references                                            
+         17,23,277      cache-misses              #   33.009 % of all cache refs    
+          8,70,598      branch-misses                                               
+
+       0.066935075 seconds time elapsed
+
+
+ Performance counter stats for 'gcc tsp.c':
+
+      13,98,85,216      instructions                                                
+         46,77,188      cache-references                                            
+         10,92,164      cache-misses              #   23.351 % of all cache refs    
+          8,50,798      branch-misses                                               
+
+       0.039734396 seconds time elapsed
+
+
+ Performance counter stats for 'gcc tsp.c':
+
+      13,98,73,573      instructions                                                
+         46,74,887      cache-references                                            
+         11,43,944      cache-misses              #   24.470 % of all cache refs    
+          8,49,906      branch-misses                                               
+
+       0.039729904 seconds time elapsed
+
+
+ Performance counter stats for 'gcc tsp.c':
+
+      13,99,09,725      instructions                                                
+         47,30,348      cache-references                                            
+         12,30,015      cache-misses              #   26.003 % of all cache refs    
+          8,50,160      branch-misses                                               
+
+       0.040276367 seconds time elapsed
+
+
+ Performance counter stats for 'gcc tsp.c':
+
+      13,98,55,767      instructions                                                
+         46,37,799      cache-references                                            
+         11,12,568      cache-misses              #   23.989 % of all cache refs    
+          8,52,045      branch-misses                                               
+
+       0.040413652 seconds time elapsed
+
+
+ Performance counter stats for 'gcc tsp.c':
+
+      13,96,97,665      instructions                                                
+         46,58,971      cache-references                                            
+         11,43,500      cache-misses              #   24.544 % of all cache refs    
+          8,48,821      branch-misses                                               
+
+       0.040019778 seconds time elapsed
+
+
+ Performance counter stats for 'gcc tsp.c':
+
+      13,97,12,167      instructions                                                
+         46,75,145      cache-references                                            
+         11,56,253      cache-misses              #   24.732 % of all cache refs    
+          8,50,958      branch-misses                                               
+
+       0.039872020 seconds time elapsed
+
+
+ Performance counter stats for 'gcc tsp.c':
+
+      13,97,19,807      instructions                                                
+         46,94,007      cache-references                                            
+         11,90,308      cache-misses              #   25.358 % of all cache refs    
+          8,54,274      branch-misses                                               
+
+       0.040274699 seconds time elapsed
+
+
+ Performance counter stats for 'gcc tsp.c':
+
+      13,96,71,988      instructions                                                
+         46,56,829      cache-references                                            
+         11,24,432      cache-misses              #   24.146 % of all cache refs    
+          8,51,446      branch-misses                                               
+
+       0.039532018 seconds time elapsed
+
+
+ Performance counter stats for 'gcc tsp.c':
+
+      13,96,67,935      instructions                                                
+         47,06,175      cache-references                                            
+         11,57,134      cache-misses              #   24.588 % of all cache refs    
+          8,53,227      branch-misses                                               
+
+       0.039984266 seconds time elapsed
